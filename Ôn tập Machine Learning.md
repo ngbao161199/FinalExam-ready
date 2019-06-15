@@ -3,6 +3,8 @@
 **Dùng cho chém gió**
 - Lập trình truyền thống: Dữ liệu và chương trình được chạy trên máy tính để tạo đầu ra. 
 - Học máy: Dữ liệu và đầu ra được chạy trên máy tính để tạo chương trình. Chương trình này có thể được sử dụng trong lập trình truyền thống.
+
+
 ![](https://3qeqpr26caki16dnhd19sv6by6v-wpengine.netdna-ssl.com/wp-content/uploads/2015/12/Traditional-Programming-vs-Machine-Learning-300x213.png)
 
 **Dùng cho chém gió (P2)**
